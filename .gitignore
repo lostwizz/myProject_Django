@@ -4,4 +4,7 @@ __pycache__/
 staticfiles/
 .env
 *.log
+###settings_dev
+settings_test
+settings_live
 
